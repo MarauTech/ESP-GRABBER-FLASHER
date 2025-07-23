@@ -1,0 +1,1 @@
+The software for the ESP32 with the CC1101 RF module allows you to receive, record, transmit, and jam RF signals in the 315, 433.92, 868, and 915 MHz bands. Operation is via four buttons and a display.
